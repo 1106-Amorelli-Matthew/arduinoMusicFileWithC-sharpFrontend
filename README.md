@@ -1,4 +1,4 @@
-# arduino uno singing music
+# Arduino Uno singing music
 a little arduino project to go along with a C# application
 
 
