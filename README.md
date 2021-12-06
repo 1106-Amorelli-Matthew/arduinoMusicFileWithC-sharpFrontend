@@ -5,15 +5,15 @@ a little arduino project to go along with a C# application
 
 1. you will need
 
- 2 x 100ohm resisters
+   2 x 100ohm resisters
   
-  2 LEDs
+    2 LEDs
   
-  1 Buzzer
+    1 Buzzer
   
- 6 male to male jumper wires
+   6 male to male jumper wires
  
- 1 arduino uno of your choice
+   1 arduino uno of your choice
 
 
 
@@ -25,7 +25,7 @@ a little arduino project to go along with a C# application
 
 3. download the sketch from the repository
 
-git clone https://github.com/lil5kisawsome/arduinoMusicFileWithC-sharpFrontend
+  git clone https://github.com/lil5kisawsome/arduinoMusicFileWithC-sharpFrontend
 
 
 
